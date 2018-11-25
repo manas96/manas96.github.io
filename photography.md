@@ -2,6 +2,7 @@
 layout: default
 ---
 ## Click any photo for more details
+### Learning manual mode on the camera
 
 <html>
   <head>

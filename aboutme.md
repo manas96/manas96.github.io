@@ -1,15 +1,31 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: I press buttons till something good happens 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<!-- TODO update photo -->
+<!-- ![me](/me.png) -->
+## TL;DR: 
+##### In a hurry? Read this section
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Manas Kale. I currently live in ***Pune, India***. I have a ***Bachelor of Engineering (Computer Science)*** degree from [Maharashtra Institute of Technology, Pune](http://www.mitpune.com/). I like ***learning*** & writing code, photography, ***reading***, games, formula 1, anything space related and exploring the interwebs. 
 
-What else do you need?
+<!-- TODO update CV -->
+[Here's my CV](/3drenderer.md). Allow me to return the favour since you were curious enough to visit this page. I'd be happy to know more about you and hear what you have to say. You can contact me at: manaskale **[at]** hotmail **[dot]** com .<br>
+<sub><sup>Sorry about making my email harder to copy/paste, but I want to return the favour for humans, not spam bots! </sup></sub>
+
+---
+##### Got a few minutes? Great! You get to  
+
+In no particular order, here are my interests:
+* Games
+    * Specifically, 
+* Formula 1
+
+
+
+
 
 ### my history
 
