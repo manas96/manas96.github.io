@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Click any photo for more for details
+## Click any photo for more details
 
 <html>
   <head>
