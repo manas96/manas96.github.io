@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-# I'm trying to learn manual mode on the camera
-### Click any photo for more for details
+## Click any photo for more for details
 
 <html>
   <head>
