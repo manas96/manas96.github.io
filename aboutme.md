@@ -27,4 +27,3 @@ A few reasons _why_ I like some of the things listed above:
 * ***Space***: The cosmos both humbles and inspires me. That our whole world is a [Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot) is humbling. Despite our insignificance, having reached [beyond our solar system](https://en.wikipedia.org/wiki/Voyager_1) is inspiring. 
 
 I am a typist. According to [this typing test](https://10fastfingers.com/typing-test/english), I average at 77 words per minute which falls in the [top 10 percentile](img/typing.png) of the website's users. I had no formal typing lessons, I learnt typing simply by spending a lot of time in front of a keyboard since highschool(playing World of Warcraft mostly) and always trying to increase my speed.
-
