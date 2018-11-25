@@ -1,8 +1,45 @@
 ---
-layout: page
+layout: default
 ---
-<!-- nanogallery2 portable - http://nano.gallery -->
-<div id="ngy2p" data-nanogallery2-portable='{"userID":"114217028995741857032","kind":"google2","album":"6627499423481679393","thumbnailOpenOriginal":true,"thumbnailWidth":"200","thumbnailAlignment":"center"}'>nanogallery2</div>
-<script> var st = document.createElement('script'); st.type = 'text/javascript'; st.src = '//nano.gallery/portable.php?k=m&u='+encodeURI(window.location.href); document.getElementsByTagName('head')[0].appendChild(st); </script>
-<noscript>Please enable javascript to view the <a href="//nano.gallery">gallery powered by nanogallery2.</a></noscript>
-<!-- end nanogallery2 -->
+# I'm trying to learn manual mode on the camera
+### Click any photo for more for details
+
+<html>
+  <head>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    <link href="https://unpkg.com/nanogallery2/dist/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="https://unpkg.com/nanogallery2/dist/jquery.nanogallery2.min.js"></script>
+
+  </head>
+  <body>
+
+    <div ID="ngy2p" data-nanogallery2='{
+        "userID": "143727985@N02",
+        "kind": "flickr",
+        "photoset": "72157673867094497",
+        "thumbnailWidth": "auto",
+        "thumbnailBorderVertical": 0,
+        "thumbnailBorderHorizontal": 0,
+        "colorScheme": {
+          "thumbnail": {
+            "background": "rgba(68,68,68,0)"
+          }
+        },
+        "thumbnailDisplayTransition": "slideUp",
+        "thumbnailLabel": {
+          "display": false,
+          "displayDescription": true
+        },
+        "thumbnailHoverEffect2": "imageScaleIn80",
+        "thumbnailAlignment": "center",
+        "thumbnailGutterWidth": 0,
+        "thumbnailGutterHeight": 0
+      }'>
+
+    </div>
+    
+  </body>
+</html>
