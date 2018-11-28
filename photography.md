@@ -2,6 +2,11 @@
 layout: default
 ---
 ## Click any photo for more details
+<details><summary>
+Camera
+</summary>
+I use a <a href="https://www.sony.co.in/electronics/cyber-shot-compact-cameras/dsc-hx400-hx400v">Sony DSC-HX400V</a>. Although not a true DSLR, it does have a manual mode which allows full control of all settings and 50x optical zoom! It's a great budget camera if you want to learn photography. My only problem so far is that it does not have a <a href="https://en.wikipedia.org/wiki/Bulb_(photography)">bulb mode</a>(needed for astrophotography). 
+</details> 
 
 <html>
   <head>
