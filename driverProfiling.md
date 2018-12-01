@@ -1,16 +1,19 @@
 ---
 layout: page
 title: Driver profiling
-subtitle: Why you'd want to go on a date with me
+subtitle: A project to identify players of a realistic racing game based on their keypress patterns  
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+***Research paper:*** [DriverProfiling.pdf](/driverProfiling.pdf) 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I was suggested this topic by my guide, [Prof. Mangesh Bedekar](http://www.mitpune.com/dept-comp/Mangesh-Bedekar-dept-it.aspx) after I asked him about potential research topics involving 3D games. 
 
-What else do you need?
+We tried to answer these questions :
+* Can we train a machine learning model to identify human players of a racing game based on a dataset of keypress events?
+* Based on the data gathered, can we identify driving styles of different players (aggressive, relaxed)?
 
-### my history
+### Choosing an appropriate game
+We chose a racing game because the results of these finding could potentially also be applied to a real car equipped with sensors. After a review of available open source racing games and their licences, I chose [StuntRally](https://stuntrally.tuxfamily.org/) [^1] since it had realistic physics simulation and great graphics. This project also gave me an opportunity to study the source code of a fully fledged 3d game!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+[^1] Sadly Stuntrally was 
