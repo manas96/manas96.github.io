@@ -12,8 +12,4 @@ We tried to answer these questions :
 * Can we train a machine learning model to identify human players of a racing game based on a dataset of keypress events?
 * Based on the data gathered, can we identify driving styles of different players (aggressive, relaxed)?
 
-### Choosing an appropriate game
-We chose a racing game because the results of these finding could potentially also be applied to a real car equipped with sensors. After a review of available open source racing games and their licences, I chose [StuntRally](https://stuntrally.tuxfamily.org/) [^1] since it had realistic physics simulation and great graphics. This project also gave me an opportunity to study the source code of a fully fledged 3d game!
-
-
-[^1] Sadly Stuntrally was 
+We trained and compared the performance of different models(K Nearest Neighbors, Support Vector Machine, Naive Bayes). The SVM had the highest accuracy of 80% for a dataset of 8 users. Based on the data gathered, we also were able to identify if a driver exhibited aggressive or relaxed style of driving.
