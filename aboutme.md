@@ -6,14 +6,12 @@ show-avatar: true
 ---
 
 
-My name is Manas Kale. I currently live in **Pune, India**. I have a **Bachelor of Engineering (Computer Science)** degree from [Maharashtra Institute of Technology, Pune](http://www.mitpune.com/). I like **learning** & writing code, photography, games, Formula 1, **space** and exploring the interwebs. 
+My name is Manas Kale. I currently live in **Pune, India**. I have a **Bachelor of Engineering (Computer Science)** degree from [Maharashtra Institute of Technology, Pune](http://www.mitpune.com/). I like everything technical related to computer science, photography, video games, Formula 1, space and exploring the interwebs. 
 
 <!-- TODO update CV -->
 [Here's my CV](/3drenderer.md). Allow me to return the favour since you were curious enough to visit this page. I'd be happy to know more about you and hear what you have to say. You can contact me at: manaskale **[at]** hotmail **[dot]** com .<br>
-<sub><sup>Sorry about making my email harder to copy/paste, but I want to return the favour for humans, not spam bots! </sup></sub>
 
 ---
-##### Got a few minutes? Great! Bot or not, I appreciate your time.
 A few reasons ***why*** I like some of the things listed above:
 * ***Learning***:  The feeling of getting to know something that I didn't know before is one of the most gratifying feelings I get everyday. I frequently go down Wikipedia rabbit holes or reddit and read about things which I never knew existed. I like learning technical details of anything I come across.
 
