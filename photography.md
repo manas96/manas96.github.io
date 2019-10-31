@@ -6,7 +6,7 @@ layout: default
 Camera
 </summary>
 I use a <a href="https://www.sony.co.in/electronics/cyber-shot-compact-cameras/dsc-hx400-hx400v">Sony DSC-HX400V</a> or a Nikon D5600.
-For budget macro, I use the standard 55mm kit lens mounted in reverse. 
+For (budget) macro, I use the standard 55mm kit lens mounted in reverse. 
 </details> 
 
 <html>
