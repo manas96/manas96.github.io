@@ -4,9 +4,9 @@ title: Driver profiling
 subtitle: A project to identify players of a realistic racing game based on their keypress patterns  
 ---
 
-***Research paper:*** [DriverProfiling.pdf](/driverProfiling.pdf) 
+***Research paper:*** [DriverProfiling.pdf](/driver_profiling.pdf) 
 
-I was suggested this topic by my guide, [Prof. Mangesh Bedekar](http://www.mitpune.com/dept-comp/Mangesh-Bedekar-dept-it.aspx) after I asked him about potential research topics involving 3D games. 
+<!-- I was suggested this topic by my guide, [Prof. Mangesh Bedekar](http://www.mitpune.com/dept-comp/Mangesh-Bedekar-dept-it.aspx) after I asked him about potential research topics involving 3D games.  -->
 
 We tried to answer these questions :
 * Can we train a machine learning model to identify human players of a racing game based on a dataset of keypress events?

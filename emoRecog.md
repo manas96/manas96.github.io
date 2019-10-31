@@ -1,16 +1,8 @@
 ---
 layout: page
-title: 3d renderer
-subtitle: Why you'd want to go on a date with me
+title: Multimodal emotion recognition
+subtitle: Real time emotion recognition using multiple inputs inputs - text, tone and video
 ---
+We implemented a novel method to combine emotions recognized by 3 different modules : a tone module that uses spoken English words as input, a tone module that uses physical characteristics of speech and a video module that uses facial expressions. Weighted outputs from each of these were combined to determine a final emotion. These weights were dynamically adjusted based on the quality of input and confidence score of each module.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### renderer
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[**Project report**](BE_Project_thesis.pdf)

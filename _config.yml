@@ -31,7 +31,7 @@ navbar-links:
   # Author's home: "http://deanattali.com"
   # Blog: "#"
   Projects: 
-    - 3D rendering engine: "3drenderer"
+    - 3D rendering engine: "https://github.com/manas96/3D-gameEngine-v2"
     - Driver Profiling using games: "driverProfiling"
     - Smart India Hackathon: "smartIndiaHackathon"
     - Multimodal emotion recognition: "emoRecog"
