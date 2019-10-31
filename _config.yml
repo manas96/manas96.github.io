@@ -29,14 +29,14 @@ navbar-links:
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   #   - GitHub Pages: "https://pages.github.com/"
   # Author's home: "http://deanattali.com"
-  Blog: "#"
+  # Blog: "#"
   Projects: 
     - 3D rendering engine: "3drenderer"
     - Driver Profiling using games: "driverProfiling"
     - Smart India Hackathon: "smartIndiaHackathon"
     - Multimodal emotion recognition: "emoRecog"
   Photography: "photography"
-  Interesting stuff: "interestingStuff"
+  # Interesting stuff: "interestingStuff"
   About: "aboutme"
 
 
@@ -92,7 +92,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: kale.manas
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
