@@ -7,7 +7,7 @@ Camera
 </summary>
 I mostly use entry level gear - it's interesting to see how far you can get without significant monetary investment. 
 <br> 
-I use a Nikon D5600 for all photography.
+Camera: Nikon D5600 or sometimes my phone (OnePlus6T). Phone camera sensors are really underappreciated! 
 <br>
 Macro: Standard 55mm kit lens mounted in reverse.
 <br>
