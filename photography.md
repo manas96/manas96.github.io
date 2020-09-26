@@ -21,9 +21,14 @@ For (budget) macro, I use the standard 55mm kit lens mounted in reverse.
   </head>
   <body>
 
+  <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+  <div class="elfsight-app-a1180c04-5026-4202-bcb0-529e8d089290"></div>
+
+<!-- 
     <div ID="ngy2p" data-nanogallery2='{
         "userID": "143727985@N02",
         "kind": "flickr",
+        "flickrAPIKey":
         "photoset": "72157673867094497",
         "thumbnailWidth": "auto",
         "thumbnailBorderVertical": 0,
@@ -44,7 +49,7 @@ For (budget) macro, I use the standard 55mm kit lens mounted in reverse.
         "thumbnailGutterHeight": 0
       }'>
 
-    </div>
+    </div> -->
     
   </body>
 </html>
