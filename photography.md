@@ -5,11 +5,16 @@ layout: default
 <details><summary>
 Camera
 </summary>
-I mostly use entry level gear - it's interesting to see how far you can get without significant monetary investment.  
+I mostly use entry level gear - it's interesting to see how far you can get without significant monetary investment. 
+<br> 
 I use a Nikon D5600 for all photography.
+<br>
 Macro: Standard 55mm kit lens mounted in reverse.
+<br>
 Wildlife: Nikkor 300mm lens. 
-To image Deep Sky Objects with the 300mm, I am in the process of building <a href="https://www.youtube.com/watch?v=XNdcqMj0Ti0">DIY star tracker</a>.
+<br>
+To image Deep Sky Objects with the 300mm, I am in the process of building a <a href="https://www.youtube.com/watch?v=XNdcqMj0Ti0">DIY star tracker</a>.
+<br>
 </details> 
 
 <html>
