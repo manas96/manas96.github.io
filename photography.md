@@ -5,8 +5,11 @@ layout: default
 <details><summary>
 Camera
 </summary>
-I use a <a href="https://www.sony.co.in/electronics/cyber-shot-compact-cameras/dsc-hx400-hx400v">Sony DSC-HX400V</a> or a Nikon D5600.
-For (budget) macro, I use the standard 55mm kit lens mounted in reverse. 
+I mostly use entry level gear - it's interesting to see how far you can get without significant monetary investment.  
+I use a Nikon D5600 for all photography.
+Macro: Standard 55mm kit lens mounted in reverse.
+Wildlife: Nikkor 300mm lens. 
+To image Deep Sky Objects with the 300mm, I am in the process of building <a href="https://www.youtube.com/watch?v=XNdcqMj0Ti0">DIY star tracker</a>.
 </details> 
 
 <html>
