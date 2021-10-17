@@ -8,9 +8,9 @@ show-avatar: true
 
 <!-- My name is Manas Kale. I currently live in **Pune, India**. I have a **Bachelor of Engineering (Computer Science)** degree from [Maharashtra Institute of Technology, Pune](http://www.mitpune.com/). I like everything technical related to computer science, photography, video games, Formula 1, space and exploring the interwebs.  -->
 - **Name** : Manas Kale
-- **Place** : School of Computer Science, McGill University, Montreal, Canada
+- **Place** : [School of Computer Science](https://www.cs.mcgill.ca/), McGill University, Montreal, Canada
 - [**CV**](/Manas_Kale_CV.pdf)
-- **Interests** : Computer Graphics (math + physics + programming), photography, optical systems (both digital and biological), video games (technical and artistic aspects), Formula 1.
+- **Interests** : Computer Graphics (math + physics + programming), [photography](https://www.instagram.com/kale.manas/), optical systems (both digital and biological), video games (technical and artistic aspects), Formula 1.
 - [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) : [INFJ(Introversion, Intuition, Feeling, Judging)](https://www.16personalities.com/infj-strengths-and-weaknesses). While I agree that a 10 minute quiz is not enough to describe a person, I think many of the strengths and almost all of the weaknesses listed on the website are accurate.
 - This website was built using Jekyll as a static site generator.
 <!-- TODO update CV -->
