@@ -2,10 +2,10 @@
 layout: default
 ---
 <!-- ## Click any photo for more details -->
-<details><summary>
+<!-- <details><summary>
 Gear
 </summary>
-<!-- I mostly use entry level gear - it's interesting to see how far you can get without significant monetary investment. 
+I mostly use entry level gear - it's interesting to see how far you can get without significant monetary investment. 
 <br> 
 Camera: Nikon D5600 or sometimes my phone (OnePlus6T). Phone camera sensors are really underappreciated! 
 <br>
@@ -14,11 +14,11 @@ Macro: Standard 55mm kit lens mounted in reverse.
 Wildlife: Nikkor 300mm lens. 
 <br>
 To image Deep Sky Objects with the 300mm, I am in the process of building a <a href="https://www.youtube.com/watch?v=XNdcqMj0Ti0">DIY star tracker</a>.
-<br> -->
+<br>
+
+</details>  -->
 Nikon D5600 + {Nikkor 18-55mm or Nikkor 70-300mm}
 OnePlus 6T
-</details> 
-
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
