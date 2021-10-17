@@ -17,8 +17,7 @@ To image Deep Sky Objects with the 300mm, I am in the process of building a <a h
 <br>
 
 </details>  -->
-Nikon D5600 + {Nikkor 18-55mm or Nikkor 70-300mm}
-OnePlus 6T
+Nikon D5600 + {Nikkor 18-55mm or Nikkor 70-300mm} or OnePlus 6T
 <html>
   <head>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
