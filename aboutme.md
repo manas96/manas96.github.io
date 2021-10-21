@@ -11,7 +11,7 @@ show-avatar: true
 - **Position** : MSc. student (advisor: [Paul G. Kry](https://www.cs.mcgill.ca/~kry/))
 - **Place** : [School of Computer Science](https://www.cs.mcgill.ca/), McGill University, Montreal, Canada
 - [**CV**](/Manas_Kale_CV.pdf)
-- **Research interests** : Broadly I am interetested in simulating natural phenemonen using fast algorithms. This includes biologically inspired machine learning, physically based animations, light transport simulations, emergent systems and so many more topics!   
+- **Research interests** : Broadly I am interested in simulating natural phenomenon using efficient algorithms. This includes biologically inspired machine learning, physically based animations, light transport simulations, emergent systems and so many more topics!   
 - **Other interests** : Computer Graphics (math + physics + programming), [photography](https://www.instagram.com/kale.manas/), optical systems (both digital and biological), video games (technical and artistic aspects), Formula 1. 
 - [Myers–Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator) : [INFJ(Introversion, Intuition, Feeling, Judging)](https://www.16personalities.com/infj-strengths-and-weaknesses). While I agree that a 10 minute quiz is not enough to describe a person, I think many of the strengths and almost all of the weaknesses listed on the website are accurate.
 - This website was built using Jekyll as a static site generator.
