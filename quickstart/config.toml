@@ -1,0 +1,4 @@
+baseURL = 'http://manas96.github.io/'
+languageCode = 'en-us'
+title = 'Manas Kale'
+theme = 'ananke'
