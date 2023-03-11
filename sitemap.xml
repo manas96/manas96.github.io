@@ -3,15 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.manas96.github.io/</loc>
-    <lastmod>2022-09-17T18:00:00+06:00</lastmod>
   </url><url>
     <loc>https://www.manas96.github.io/about/</loc>
   </url><url>
-    <loc>https://www.manas96.github.io/photography/</loc>
-    <lastmod>2022-09-17T18:00:00+06:00</lastmod>
+    <loc>https://www.manas96.github.io/natural-phenomena/</loc>
   </url><url>
-    <loc>https://www.manas96.github.io/page/</loc>
-    <lastmod>2022-09-17T18:00:00+06:00</lastmod>
+    <loc>https://www.manas96.github.io/photography/</loc>
   </url><url>
     <loc>https://www.manas96.github.io/authors/</loc>
   </url><url>
@@ -20,6 +17,8 @@
     <loc>https://www.manas96.github.io/tags/config/</loc>
   </url><url>
     <loc>https://www.manas96.github.io/tags/og/</loc>
+  </url><url>
+    <loc>https://www.manas96.github.io/page/</loc>
   </url><url>
     <loc>https://www.manas96.github.io/search/</loc>
   </url><url>

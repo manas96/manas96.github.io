@@ -4,8 +4,7 @@
     <title>Home on Manas Kale</title>
     <link>https://www.manas96.github.io/</link>
     <description>Recent content in Home on Manas Kale</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 17 Sep 2022 18:00:00 +0600</lastBuildDate><atom:link href="https://www.manas96.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.manas96.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://www.manas96.github.io/about/</link>
@@ -17,9 +16,18 @@ Photography: I like recording and understanding natural phenomena (TODO LINK). A
     </item>
     
     <item>
+      <title>Natural Phenomena</title>
+      <link>https://www.manas96.github.io/natural-phenomena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.manas96.github.io/natural-phenomena/</guid>
+      <description>Aurora Borealis Nightscapes Aphides Locust Volcano Magma Arctic Circle </description>
+    </item>
+    
+    <item>
       <title>Photography</title>
       <link>https://www.manas96.github.io/photography/</link>
-      <pubDate>Sat, 17 Sep 2022 18:00:00 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.manas96.github.io/photography/</guid>
       <description>Enabling Archive For enabling Archive, add the following frontmatter in your content file:
