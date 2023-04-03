@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manaskale on Manas Kale</title>
+    <link>https://www.manas96.github.io/authors/manaskale/</link>
+    <description>Recent content in manaskale on Manas Kale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Feb 2023 12:30:00 +0600</lastBuildDate><atom:link href="https://www.manas96.github.io/authors/manaskale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winter hiking in -27c</title>
+      <link>https://www.manas96.github.io/blog/winter_hike/</link>
+      <pubDate>Sat, 04 Feb 2023 12:30:00 +0600</pubDate>
+      
+      <guid>https://www.manas96.github.io/blog/winter_hike/</guid>
+      <description>-27c hike! TODO</description>
+    </item>
+    
+    <item>
+      <title>Biking 150k through the Quebec countryside</title>
+      <link>https://www.manas96.github.io/blog/tremblant_bike/</link>
+      <pubDate>Mon, 10 Oct 2022 12:30:00 +0600</pubDate>
+      
+      <guid>https://www.manas96.github.io/blog/tremblant_bike/</guid>
+      <description>Ever since I read about the P’tit Train du Nord(&amp;ldquo;small train of the north&amp;rdquo;), I decided this is a trip to do no matter what. This was a former train track that was converted to a biking path after the train was decommissioned. Imaging all the picterseuq scenery&amp;hellip;. TODO</description>
+    </item>
+    
+  </channel>
+</rss>

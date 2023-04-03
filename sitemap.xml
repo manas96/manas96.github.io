@@ -3,14 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.manas96.github.io/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/blog/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
   </url><url>
     <loc>https://www.manas96.github.io/about/</loc>
   </url><url>
-    <loc>https://www.manas96.github.io/natural-phenomena/</loc>
+    <loc>https://www.manas96.github.io/natures-atlas/</loc>
   </url><url>
     <loc>https://www.manas96.github.io/photography/</loc>
   </url><url>
+    <loc>https://www.manas96.github.io/tags/f1/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/guide/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/blog/f1guide/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/photography/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/</loc>
+    <lastmod>2023-04-02T12:30:00+06:00</lastmod>
+  </url><url>
     <loc>https://www.manas96.github.io/authors/</loc>
+    <lastmod>2023-02-04T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/hiking/</loc>
+    <lastmod>2023-02-04T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/authors/manaskale/</loc>
+    <lastmod>2023-02-04T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/outdoor/</loc>
+    <lastmod>2023-02-04T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/blog/winter_hike/</loc>
+    <lastmod>2023-02-04T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/biking/</loc>
+    <lastmod>2022-10-10T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/blog/tremblant_bike/</loc>
+    <lastmod>2022-10-10T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/tags/astro/</loc>
+    <lastmod>2022-07-23T12:30:00+06:00</lastmod>
+  </url><url>
+    <loc>https://www.manas96.github.io/blog/aurora/</loc>
+    <lastmod>2022-07-23T12:30:00+06:00</lastmod>
   </url><url>
     <loc>https://www.manas96.github.io/categories/</loc>
   </url><url>
@@ -23,7 +67,5 @@
     <loc>https://www.manas96.github.io/search/</loc>
   </url><url>
     <loc>https://www.manas96.github.io/series/</loc>
-  </url><url>
-    <loc>https://www.manas96.github.io/tags/</loc>
   </url>
 </urlset>

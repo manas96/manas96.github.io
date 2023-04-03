@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>astro on Manas Kale</title>
+    <link>https://www.manas96.github.io/tags/astro/</link>
+    <description>Recent content in astro on Manas Kale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Jul 2022 12:30:00 +0600</lastBuildDate><atom:link href="https://www.manas96.github.io/tags/astro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hunting for Aurora Borealis</title>
+      <link>https://www.manas96.github.io/blog/aurora/</link>
+      <pubDate>Sat, 23 Jul 2022 12:30:00 +0600</pubDate>
+      
+      <guid>https://www.manas96.github.io/blog/aurora/</guid>
+      <description>TODO</description>
+    </item>
+    
+  </channel>
+</rss>
