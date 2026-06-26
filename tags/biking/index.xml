@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>biking on Manas Kale</title>
-    <link>https://www.manas96.github.io/tags/biking/</link>
-    <description>Recent content in biking on Manas Kale</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Oct 2022 12:30:00 +0600</lastBuildDate><atom:link href="https://www.manas96.github.io/tags/biking/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Biking 150k through the Quebec countryside</title>
-      <link>https://www.manas96.github.io/blog/tremblant_bike/</link>
-      <pubDate>Mon, 10 Oct 2022 12:30:00 +0600</pubDate>
-      
-      <guid>https://www.manas96.github.io/blog/tremblant_bike/</guid>
-      <description>Ever since I read about the P’tit Train du Nord(&amp;ldquo;small train of the north&amp;rdquo;), I decided this is a trip to do no matter what. This was a former train track that was converted to a biking path after the train was decommissioned. Imaging all the picterseuq scenery&amp;hellip;. TODO</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Biking on Manas Kale</title>
+		<link>https://www.manas96.github.io/tags/biking/</link>
+		<description>Recent content in Biking on Manas Kale</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Oct 2022 12:30:00 +0600</lastBuildDate>
+		
+			<atom:link href="https://www.manas96.github.io/tags/biking/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Biking 150k through the Quebec countryside</title>
+				<link>https://www.manas96.github.io/blog/tremblant_bike/</link>
+				<pubDate>Mon, 10 Oct 2022 12:30:00 +0600</pubDate>
+				<guid>https://www.manas96.github.io/blog/tremblant_bike/</guid>
+				<description>&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/nanogallery2/3.0.4/css/nanogallery2.min.css&#34;/&gt;&#xD;&#xA;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/nanogallery2/3.0.4/jquery.nanogallery2.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;figure class=&#34;center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;https://www.manas96.github.io/images/tremblant/strava_hu_154808d943c26865.jpg&#34; data-ngsrc=&#34;https://www.manas96.github.io/images/tremblant/strava.jpg&#34;&#xD;&#xA;    data-nanogallery2-lightbox=&#39;{ &#34;viewerGallery &#34;: &#34;none&#34; }&#39; &#xD;&#xA;    alt=&#34;strava.jpg&#34; /&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;p&gt;Ever since I read about the &lt;a href=&#34;https://ptittraindunord.com/en/&#34;&gt;P’tit Train du Nord&lt;/a&gt;(&amp;ldquo;small train of the north&amp;rdquo;), I decided this is a trip to do no matter what. This is a former train track that was converted to a biking path after the train was decommissioned. Imaging all the picturesque scenery you saw on train rides, now bikable at your leisure.&lt;/p&gt;&#xA;&lt;p&gt;This was also the first time I would ever experience a temperate &lt;em&gt;fall&lt;/em&gt; season, as I had only ever lived in a tropical climate (India) before then. Tropical foilage is usually only green and then dry nothingness. However in temperate climates there are more distinct changes - green, (yellow, red, orange), then white. So I decided to do this trip in the fall.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

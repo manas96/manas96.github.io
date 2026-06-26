@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      CMS.registerEditorComponent({
+        id: "flikr",
+        label: "Flickr Image",
+        fields: [
+          { name: "src", label: "Flickr Image URL", widget: "string" },
+          { name: "caption", label: "Caption", widget: "string", default: "" }
+        ],
+        pattern: /{{[%<]\s*flikr src="([^"]+)" caption="([^"]*)"\s*[%>]\}}/,
+        fromBlock: function(match) {
+          return {
+            src: match[1],
+            caption: match[2]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{% flikr src="${obj.src}" caption="${obj.caption}" %}}`;
+        },
+        toPreview: function(obj) {
+          const safeCaption = (obj.caption || "").replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+          const safeSrc = (obj.src || "").replace(/"/g, '%22');
+          return `<img src="${safeSrc}" alt="${safeCaption}" style="max-width: 100%; height: auto;"/>`;
+        }
+      });
+      
+      CMS.registerEditorComponent({
+        id: "nanogallery",
+        label: "Nano Gallery",
+        fields: [
+          { name: "src", label: "Gallery Path", widget: "string" },
+          { name: "caption", label: "Caption", widget: "string", default: "" }
+        ],
+        pattern: /{{[%<]\s*nanogallery src="([^"]+)" caption="([^"]*)"\s*[%>]\}}/,
+        fromBlock: function(match) {
+          return {
+            src: match[1],
+            caption: match[2]
+          };
+        },
+        toBlock: function(obj) {
+          return `{{% nanogallery src="${obj.src}" caption="${obj.caption}" %}}`;
+        },
+        toPreview: function(obj) {
+          const safeSrc = (obj.src || "").replace(/</g, '&lt;').replace(/>/g, '&gt;');
+          return `<div>[Gallery Placeholder: ${safeSrc}]</div>`;
+        }
+      });
+    </script>
+  </body>
+</html>

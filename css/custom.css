@@ -1,1 +1,17 @@
 /* Custom CSS */
+body.type-photography #content,
+body.type-photography .entry,
+body.type-photography .entry-content,
+body.type-photography main#content > .container {
+  max-width: none;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body.type-photography .entry-header {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
